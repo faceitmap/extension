@@ -4,3 +4,4 @@ build.zip
 yarn-error.log
 .idea
 .idea_buf
+.DS_Store
