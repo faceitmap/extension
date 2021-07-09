@@ -1,8 +1,11 @@
 # Faceit map pick assistant
 
-### Reproduce steps to success work
-1. Check is faceit room match
-2. Get all nicks players in room
-3. Fetch map stats of every player
-4. Compute best map for win
+Enhances the FACEIT experience and adds more information about maps pick.
+Faceit pick map assistant is a Chrome extension that enhances the experience on FACEIT.com by adding useful information about maps pick.
 
+Highlights:
+- See team score of map
+- See who not played some map
+
+
+### Link to [Chrome Market](https://chrome.google.com/webstore/detail/faceit-pick-map-assistant/bpnfacghgpkdiglphjbiebnmocfalkdi)
