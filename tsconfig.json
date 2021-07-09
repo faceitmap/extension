@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "target": "esnext",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "experimentalDecorators": true,
+    "downlevelIteration": true,
+    "forceConsistentCasingInFileNames": true,
+    "lib": ["esnext", "dom", "DOM.Iterable"],
+    "sourceMap": true,
+    "jsx": "react",
+    "resolveJsonModule": true,
+    "noEmit": true,
+    "allowJs": false,
+    "allowSyntheticDefaultImports": true,
+    "types": [
+      "chrome"
+    ]
+  },
+  "exclude": ["node_modules"]
+}
